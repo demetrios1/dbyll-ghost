@@ -1,5 +1,5 @@
 # Dbyll
-Port of the open source Jekyll theme [dbyll](https://github.com/dbtek/dbyll) for Ghost platform.
+Port of the open source Jekyll theme [dbyll](https://github.com/dbtek/dbyll) for Ghost platform. edit.
 
 ![Screenshot](https://raw.github.com/dbtek/dbyll-ghost/master/screenshot.png)
 
